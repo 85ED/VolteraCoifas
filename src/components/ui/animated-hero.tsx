@@ -8,7 +8,7 @@ export const AnimatedHero = () => {
       <div 
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: 'url(https://raw.githubusercontent.com/85ED/VolteraCoifas/main/commercial-kitchen-fire-suppression-system.jpg)',
+          backgroundImage: 'url(https://raw.githubusercontent.com/85ED/VolteraCoifas/main/imagens%20/commercial-kitchen-fire-suppression-system.jpg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           filter: 'brightness(0.5)'

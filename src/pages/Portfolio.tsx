@@ -7,13 +7,13 @@ export function Portfolio() {
       step: "Tratamento de Fumaça",
       title: "Sistema de Exaustão Eficiente",
       content: "A instalação de coifa garante a extração eficiente de vapores e partículas, promovendo um ambiente limpo e seguro.",
-      image: "https://raw.githubusercontent.com/85ED/VolteraCoifas/main/20201209_120518.png"
+      image: "https://raw.githubusercontent.com/85ED/VolteraCoifas/main/imagens%20/20201209_120518.png"
     },
     {
       step: "Residencial",
       title: "Soluções para sua Casa",
       content: "Em residências, a coifa oferece um sistema discreto e eficaz que assegura a qualidade do ar e o conforto dos moradores.",
-      image: "https://raw.githubusercontent.com/85ED/VolteraCoifas/main/CYMERA_20180402_001155.png"
+      image: "https://raw.githubusercontent.com/85ED/VolteraCoifas/main/imagens%20/CYMERA_20180402_001155.png"
     }
   ];
 

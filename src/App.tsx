@@ -34,7 +34,7 @@ function App() {
               <div className="flex items-center justify-between h-16">
                 <Link to="/" className="flex items-center">
                   <img 
-                    src="https://raw.githubusercontent.com/85ED/VolteraCoifas/main/logo.png"
+                    src="https://raw.githubusercontent.com/85ED/VolteraCoifas/main/imagens%20/logo.png"
                     alt="Voltera Coifas"
                     className="h-10 md:h-12 w-auto object-contain max-w-[150px] md:max-w-[200px]"
                   />
@@ -134,7 +134,7 @@ function App() {
                 <div className="space-y-4 md:space-y-6">
                   <Link to="/">
                     <img 
-                      src="https://raw.githubusercontent.com/85ED/VolteraCoifas/main/logo.png"
+                      src="https://raw.githubusercontent.com/85ED/VolteraCoifas/main/imagens%20/logo.png"
                       alt="Voltera Coifas"
                       className="h-12 md:h-16 w-auto object-contain"
                     />

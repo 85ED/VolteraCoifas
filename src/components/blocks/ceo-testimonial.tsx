@@ -12,7 +12,7 @@ export function CEOTestimonial() {
             className="flex-shrink-0"
           >
             <img
-              src="https://raw.githubusercontent.com/85ED/VolteraCoifas/main/IMG_6874.jpg"
+              src="https://raw.githubusercontent.com/85ED/VolteraCoifas/main/imagens%20/IMG_6874.jpg"
               alt="Luiz Voltera - CEO"
               className="w-32 h-32 rounded-full object-cover border-4 border-white dark:border-gray-700 shadow-lg"
             />
