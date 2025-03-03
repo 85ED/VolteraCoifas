@@ -50,7 +50,7 @@ export function NavBar({ items, className }: NavBarProps) {
                 key={item.name}
                 href={item.url}
                 onClick={() => setIsMenuOpen(false)}
-                className="block px-4 py-3 text-sm transition-colors duration-200 hover:bg-gray-100 dark:hover:bg-gray-800"
+                className="block px-4 py-3 text-sm transition-colors duration-200 hover:bg-gray-100 dark:hover:bg-gray-800 bg-white dark:bg-gray-900 text-gray-700 dark:text-gray-300"
               >
                 <span className="flex items-center space-x-2">
                   <item.icon className="w-4 h-4" />
@@ -64,7 +64,7 @@ export function NavBar({ items, className }: NavBarProps) {
                 onClick={() => setIsMenuOpen(false)}
                 className={cn(
                   "block px-4 py-3 text-sm transition-colors duration-200",
-                  "hover:bg-gray-100 dark:hover:bg-gray-800",
+                  "hover:bg-gray-100 dark:hover:bg-gray-800 bg-white dark:bg-gray-900",
                   isActive(item.url) ? "bg-blue-50 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400" : "text-gray-700 dark:text-gray-300"
                 )}
               >
